@@ -1,10 +1,9 @@
 
 # ¡Hola! 👋 Soy Herwingx
 
-Soy un estudiante autodidacta apasionado por el desarrollo web. Mi viaje comenzó cuando descubrí [tecnología o lenguaje de programación favorito]. Desde entonces, he estado explorando [frameworks, bibliotecas o proyectos] y aprendiendo constantemente.
+Soy un estudiante autodidacta apasionado por el desarrollo web. Mi viaje comenzó cuando descubrí JavaScript. Desde entonces, he estado explorando frameworks, librerias y proyectos aprendiendo constantemente.
 
-- 🌱 Actualmente estoy aprendiendo [tecnología específica].
-- 💡 Me encanta [algo que te inspire].
+- 🌱 Actualmente estoy aprendiendo Frontend.
 - 📫 Puedes encontrarme en LinkedIn o Twitter.
 
 ¡Hablemos de código! 💻
