@@ -15,7 +15,7 @@ Soy un **desarrollador web autodidacta** con una pasión por la creación de exp
 
 ## 💻 **Tecnologías y Herramientas que Uso**
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
@@ -32,10 +32,10 @@ Soy un **desarrollador web autodidacta** con una pasión por la creación de exp
 
 ## 📊 **Estadísticas en GitHub**
 
-<p align="left">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=herwingx&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats">
-  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=herwingx&theme=dark&hide_border=true" alt="GitHub Streak">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwingx&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=herwingx&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herwingx&theme=transparent&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwingx&theme=transparent&hide_border=true&layout=compact" alt="Top Languages">
 </p>
 
 ---
@@ -43,15 +43,14 @@ Soy un **desarrollador web autodidacta** con una pasión por la creación de exp
 ## 🌐 **Conéctate Conmigo**
 
 <p align="left">
-  <a href="https://facebook.com/herwingxx" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://instagram.com/herwingx" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://linkedin.com/in/herwingx" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://tiktok.com/@herwingx" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok"></a>
+  <a href="https://tiktok.com/@herwingx" target="_blank"><img 
   <a href="https://twitter.com/herwingx" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
 ---
 
-<p align="center">
+<p align="left">
   <a href="https://visitcount.itsvg.in/api?id=herwingx&icon=0&color=0" target="_blank"><img src="https://visitcount.itsvg.in/api?id=herwingx&icon=0&color=0" alt="Visit Count"></a>
 </p>
