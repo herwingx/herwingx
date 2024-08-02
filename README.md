@@ -48,9 +48,3 @@ Soy un **desarrollador web autodidacta** con una pasión por la creación de exp
   <a href="https://tiktok.com/@herwingx" target="_blank"><img 
   <a href="https://twitter.com/herwingx" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
 </p>
-
----
-
-<p align="left">
-  <a href="https://visitcount.itsvg.in/api?id=herwingx&icon=0&color=0" target="_blank"><img src="https://visitcount.itsvg.in/api?id=herwingx&icon=0&color=0" alt="Visit Count"></a>
-</p>
