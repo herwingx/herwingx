@@ -43,21 +43,22 @@ Soy un Desarrollador Web Junior apasionado por la creación de interfaces intuit
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=herwingxtech&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=1D242B&title_color=d1d7e0&icon_color=347d39&text_color=d1d7e0&ring_color=347d39&card_width=400&custom_title=%20" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herwingxtech&theme=algolia&hide_border=true&short_numbers=true&exclude_days=Sun&&background=1D242B&title_color=FAFAFA&fire=FF7800&ring=FF7800&card_width=400&stroke=FAFAFAc4&sideNums=347d39&currStreakLabel=d1d7e0&currStreakNum=FF7800&sideLabels=d1d7e0" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwingxtech&theme=algolia&hide_border=true&layout=compact&bg_color=1D242B&title_color=d1d7e0&card_width=600&text_bold=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=herwingx&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=1D242B&title_color=d1d7e0&icon_color=347d39&text_color=d1d7e0&ring_color=347d39&card_width=400&custom_title=%20" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herwingx&theme=algolia&hide_border=true&short_numbers=true&exclude_days=Sun&&background=1D242B&title_color=FAFAFA&fire=FF7800&ring=FF7800&card_width=400&stroke=FAFAFAc4&sideNums=347d39&currStreakLabel=d1d7e0&currStreakNum=FF7800&sideLabels=d1d7e0" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwingx&theme=algolia&hide_border=true&layout=compact&bg_color=1D242B&title_color=d1d7e0&card_width=600&text_bold=true" alt="Top Languages">
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=herwingxtech&theme=react&bg_color=1D242B&title_color=d1d7e0&point=d1d7e0&hide_border=true&radius=8&line=347d39&color=d1d7e0&area_color=FAFAFAc4&area=true&custom_title=Contribution%20Graph%20🤖"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=herwingx&theme=react&bg_color=1D242B&title_color=d1d7e0&point=d1d7e0&hide_border=true&radius=8&line=347d39&color=d1d7e0&area_color=FAFAFAc4&area=true&custom_title=Contribution%20Graph%20🤖"/>
 
 ## Contacto
 
 ¡Me encantaría conectar contigo!
 
 <p align="center">
-  <a href="https://linkedin.com/in/herwingxtech" target="_blank">
+  <a href="https://linkedin.com/in/herwingx" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
 Estoy en búsqueda de mi primera experiencia laboral. No dudes en contactarme si tienes alguna oportunidad o simplemente quieres conectar y compartir conocimientos.
+
