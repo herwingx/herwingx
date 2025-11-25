@@ -63,7 +63,7 @@
   <br/><br/>
   
   <!-- Top Lenguajes -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwingx&theme=algolia&hide_border=true&layout=compact&bg_color=1D242B&title_color=d1d7e0&card_width=600&text_bold=true" alt="Top Languages" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwingx&theme=algolia&hide_border=true&layout=donut&bg_color=1D242B&title_color=d1d7e0&card_width=600&text_bold=true" alt="Top Languages" width="100%">
  <br/><br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=herwingx&theme=algolia&hide_border=true&short_numbers=true&exclude_days=Sun&&background=1D242B&title_color=FAFAFA&fire=FF7800&ring=FF7800&card_width=400&stroke=FAFAFAc4&sideNums=347d39&currStreakLabel=d1d7e0&currStreakNum=FF7800&sideLabels=d1d7e0" alt="GitHub Streak" width="100%">
