@@ -99,17 +99,18 @@ Estoy en búsqueda de mi **primera oportunidad laboral** como desarrollador web.
       <b>Autodidacta</b><br>
       Capacidad de aprender rápido
     </td>
-    <td align="center" width="50%">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWYwcmt2dzNvZHVrM2QyMTU3YXlqZDhraXdqZ3RoeTZxOGNuMGozNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/46hMzlIbVpWPJAWdUY/giphy.gif" width="100"><br>
-      <b>Open Source Mind</b><br>
-      Amo Linux
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
+     <td align="center">
       <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"><br>
       <b>Código Limpio</b><br>
       Comprometido con la calidad
+    </td>
+    
+  </tr>
+  <tr>
+   <td align="center" width="50%">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWYwcmt2dzNvZHVrM2QyMTU3YXlqZDhraXdqZ3RoeTZxOGNuMGozNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/46hMzlIbVpWPJAWdUY/giphy.gif" width="100"><br>
+      <b>Open Source Mind</b><br>
+      Amo Linux
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"><br>
