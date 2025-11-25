@@ -39,7 +39,7 @@
   <br/><br/>
   <p>Backend & Herramientas</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,git,github,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,git,github,linux,vscode" />
   </a>
 </div>
 
@@ -88,5 +88,6 @@
   
   <br/><br/>
   <sub><i>"Talk is cheap. Show me the code."</i> — Linus Torvalds</sub>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
   
 </div>
