@@ -1,139 +1,175 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-  
-  <br/>
-  
-  <h1 align="center">Hola, soy Eduardo Macías 👨🏽‍💻</h1>
 
-  <!-- Typing SVG más limpio -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Web+Developer;Never+Stop+Learning;Autodidacta+;Linux+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
-  </a>
 
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=echo+%22Hola%2C+soy+Eduardo+Mac%C3%ADas%22;%24+cat+roles.txt;Full+Stack+Developer;Linux+Enthusiast+%26+Open+Source;%24+sudo+apt+install+coffee;Loading+creativity...........100%25)](https://git.io/typing-svg)
+
+
 </div>
-  <p align="center">
-    <a href="https://linkedin.com/in/herwingx">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=herwingx&color=58A6FF&style=flat&label=Visitas"/>
-  </p>
 
-<br/>
+---
 
-<!-- LAYOUT DE 2 COLUMNAS (TABLA INVISIBLE) -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Sobre mí
+## `$ cat profile.yml`
 
-¡Hey! Soy un desarrollador autodidacta de México. No me limito a una sola tecnología; si resuelve el problema y es eficiente, lo aprendo.
+```yaml
+# ~/.config/herwingx/profile.yml
 
-- 🔭 Actualmente trabajando en: **Proyectos Full Stack**
-- 🌱 Aprendiendo: **Arquitectura de Software y Docker**
-- 💬 Pregúntame sobre: **JavaScript, React o Pizza**
-- ⚡ Dato curioso: Empecé con tutoriales de YouTube y ahora no puedo parar de codear.
+name: Eduardo Macías
+handle: "@herwingx"
+location: Chiapas, México
+timezone: UTC-06:00
 
-<br/>
+role: Full Stack Developer
+focus:
+  - Web Development
+  - Clean Architecture  
+  - Linux & DevOps
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
-<!-- Usando SkillIcons para un look más visual -->
+philosophy: "Si resuelve el problema, lo aprendo."
+
+
+```
+
+---
+
+## `$ neofetch`
+
 <div align="center">
-  <p>Frontend</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma" />
-  </a>
-  <br/><br/>
-  <p>Backend & Herramientas</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,git,github,linux,vscode" />
-  </a>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```text
+herwingx@github
+───────────────
+OS: Linux Enthusiast
+Host: World Wide Web
+Kernel: Full Stack v1.0
+Uptime: Learning 24/7
+Packages: npm, docker
+Shell: zsh / bash
+Editor: Antigravity / Nano
+Theme: Dark Mode Always
+Font: JetBrains Mono
+Icons: Material Icon Theme
+Terminal: Alacritty / Warp
+WM: i3-gaps (Tiling)
+Browser: Firefox Developer
+Location: Chiapas, México
+Timezone: UTC-06:00 (CST)
+Music: Lo-Fi / Metal
+Drink: Coffee ☕
+CPU: Caffeine Powered
+Memory: 100% Commitment
+```
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Actividad en GitHub
-
 <div align="center">
-  <!-- Stats Card Minimalista -->
-  <!--  <img src="https://github-readme-stats.vercel.app/api?username=herwingx&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=1D242B&title_color=d1d7e0&icon_color=347d39&text_color=d1d7e0&ring_color=347d39&card_width=400&custom_title=%20" alt="GitHub Stats" width="100%"> -->
-  
-  <br/><br/>
-  
-  <!-- Top Lenguajes -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwingx&theme=algolia&hide_border=true&layout=compact&bg_color=1D242B&title_color=d1d7e0&card_width=600&text_bold=true" alt="Top Languages" width="100%">
- <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herwingx&theme=algolia&hide_border=true&short_numbers=true&exclude_days=Sun&&background=1D242B&title_color=FAFAFA&fire=FF7800&ring=FF7800&card_width=400&stroke=FAFAFAc4&sideNums=347d39&currStreakLabel=d1d7e0&currStreakNum=FF7800&sideLabels=d1d7e0" alt="GitHub Streak" width="100%">
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,bootstrap)](https://skillicons.dev)
+
+**Backend**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mysql,docker,npm,postman)](https://skillicons.dev)
+
+**Terminal**
+
+[![Terminal](https://skillicons.dev/icons?i=bash,vim,neovim)](https://skillicons.dev)
+
+**OS**
+
+[![OS](https://skillicons.dev/icons?i=ubuntu,linux,debian)](https://skillicons.dev)
+
+**Tools**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,notion)](https://skillicons.dev)
+
+**Cloud & DevOps**
+
+[![Cloud](https://skillicons.dev/icons?i=gcp,cloudflare,githubactions)](https://skillicons.dev)
+
 </div>
-
 
 </td>
-  </tr>
-</table>
-
-<br/>
-
-### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=herwingx&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="100%"/>
-</div>
-
-<br/>
-<div align="center">
-  
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> ¿Buscas un desarrollador comprometido?
-
-<img src="https://user-images.githubusercontent.com/74038190/216649426-3a3d4e3f-4efa-4e51-a011-c1c7e7c35f3e.gif" width="150">
-
-Estoy en búsqueda de mi **primera oportunidad laboral** como desarrollador web. Me apasiona aprender, resolver problemas y contribuir en proyectos reales.
-
-**¿Por qué trabajar conmigo?**
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"><br>
-      <b>Autodidacta</b><br>
-      Capacidad de aprender rápido
-    </td>
-     <td align="center">
-      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"><br>
-      <b>Código Limpio</b><br>
-      Comprometido con la calidad
-    </td>
-    
-  </tr>
-  <tr>
-   <td align="center" width="50%">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWYwcmt2dzNvZHVrM2QyMTU3YXlqZDhraXdqZ3RoeTZxOGNuMGozNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/46hMzlIbVpWPJAWdUY/giphy.gif" width="100"><br>
-      <b>Open Source Mind</b><br>
-      Amo Linux
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"><br>
-      <b>Trabajo en Equipo</b><br>
-      Comunicación efectiva
-    </td>
-  </tr>
+</tr>
 </table>
 </div>
 
+---
+
+## `$ ls -la ~/projects/`
+
+```bash
+$ tree ~/projects --dirsfirst
+.
+├── 📦 inventario-ti-lds/     # Sistema de inventario TI
+├── 🚀 linea-digital-astro/   # Web con Astro Framework
+└── 🔧 coming-soon/           # Próximo proyecto...
+```
+
 <div align="center">
-  
- ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Conectemos
-  
-  <a href="https://linkedin.com/in/herwingx" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a> 
-  <a href="mailto:tu-email@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-  
-  <br/><br/>
-  <sub>💡 <i>"Talk is cheap. Show me the code."</i> — Linus Torvalds</sub>
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-  
+
+[![inventario-ti-lds](https://github-readme-stats.vercel.app/api/pin/?username=herwingx&repo=inventario-ti-lds&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/herwingx/inventario-ti-lds)
+[![linea-digital-astro](https://github-readme-stats.vercel.app/api/pin/?username=herwingx&repo=linea-digital-astro&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/herwingx/linea-digital-astro)
+
+</div>
+
+> 📁 **[Ver todos los repositorios →](https://github.com/herwingx?tab=repositories)**
+
+---
+
+
+
+## `$ git log --oneline`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=herwingx&theme=github_dark" alt="Top Languages">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=herwingx&theme=github_dark" alt="GitHub Stats">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=herwingx&theme=github_dark&utcOffset=-6" alt="Productive Time">
+
+</div>
+
+## `$ git log --graph --all`
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=herwingx&theme=github_dark" width="100%"/>
+</div>
+
+---
+
+## `$ ./snake_game.sh --simulate`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/herwingx/herwingx/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
+
+---
+
+## `$ cat contact.json`
+
+```json
+{
+  "user": "Eduardo Macías",
+  "email": "herwingx@gmail.com",
+  "social": {
+    "linkedin": "https://linkedin.com/in/herwingx",
+    "website": "https://herwingx.dev",
+    "github": "https://github.com/herwingx"
+  },
+  "status": "Available for hire 🟢"
+}
+```
+
+---
+
+<div align="center">
+<br>
+<code>[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% loaded</code>
+<br>
+<code>System Ready. Waiting for input...</code>
+<br>
 </div>
