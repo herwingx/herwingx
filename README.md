@@ -18,13 +18,14 @@ handle: "@herwingx"
 location: Chiapas, México
 timezone: UTC-06:00
 
-role: Full Stack Developer
+role: Full Stack Developer Jr
 focus:
   - Web Development
   - Clean Architecture  
   - Linux & DevOps
 
-philosophy: "Si resuelve el problema, lo aprendo."
+philosophy: "Jack of all trades, master of none,
+but often times better than master of one."
 
 
 ```
@@ -49,17 +50,17 @@ Packages: npm, docker
 Shell: zsh / bash
 Editor: Antigravity / Nano
 Theme: Dark Mode Always
-Font: JetBrains Mono
+Font: Maple Mono NF
 Icons: Material Icon Theme
-Terminal: Alacritty / Warp
+Terminal: Gnome Terminal / Warp
 WM: i3-gaps (Tiling)
-Browser: Firefox Developer
+Browser: Brave Nightly
 Location: Chiapas, México
 Timezone: UTC-06:00 (CST)
-Music: Lo-Fi / Metal
-Drink: Coffee ☕
-CPU: Caffeine Powered
-Memory: 100% Commitment
+Music: Random
+Drink: Water 
+CPU: Intel® Core™ i7-12700KF
+Memory: 16GB
 ```
 
 </td>
