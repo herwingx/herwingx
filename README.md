@@ -46,7 +46,7 @@ OS: Linux Enthusiast
 Host: World Wide Web
 Kernel: Full Stack v1.0
 Uptime: Learning 24/7
-Packages: npm, docker
+Packages: npm, docker 
 Shell: zsh / bash
 Editor: Antigravity / Nano
 Theme: Dark Mode Always
