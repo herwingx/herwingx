@@ -15,8 +15,6 @@
 
 name: Eduardo Macías
 handle: "@herwingx"
-location: Chiapas, México
-timezone: UTC-06:00
 
 role: Full Stack Developer Jr
 focus:
@@ -134,12 +132,6 @@ $ tree ~/projects --dirsfirst
 
 </div>
 
-## `$ git log --graph --all`
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=herwingx&theme=github_dark" width="100%"/>
-</div>
-
 ---
 
 ## `$ ./snake_game.sh --simulate`
@@ -154,7 +146,6 @@ $ tree ~/projects --dirsfirst
 
 ```json
 {
-  "user": "Eduardo Macías",
   "email": "herwingx@gmail.com",
   "social": {
     "linkedin": "https://linkedin.com/in/herwingx",
