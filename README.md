@@ -10,91 +10,53 @@
 
 ## `$ cat profile.yml`
 
-```yaml
-# ~/.config/herwingx/profile.yml
-
-name: Eduardo Macías
-handle: "@herwingx"
-
-role: Full Stack Developer Jr
-focus:
-  - Web Development
-  - Clean Architecture  
-  - Linux & DevOps
-
-philosophy: "Jack of all trades, master of none,
-but often times better than master of one."
-
-
+```bash
+.
+├── 👤 name: Eduardo Macías
+├── 🏷️ handle: @herwingx
+├── 💼 role: Full Stack Developer Jr
+├── 🎯 focus/
+│   ├─── ai-enthusiast
+│   ├─── devops
+│   ├─── backend
+│   └─── web-development
+├── philosophy: "Jack of all trades, master of none,
+│   but often times better than master of one."
+└── neofetch/
+    ├── OS: Linux Enthusiast
+    ├── Kernel: Full Stack v1.0
+    ├── Packages: npm, docker
+    ├── Shell: zsh / bash
+    ├── Location: Chiapas, México
+    └── CPU: Intel® Core™ i7-13600H
 ```
 
----
-
-## `$ neofetch`
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-```text
-herwingx@github
-───────────────
-OS: Linux Enthusiast
-Host: World Wide Web
-Kernel: Full Stack v1.0
-Uptime: Learning 24/7
-Packages: npm, docker 
-Shell: zsh / bash
-Editor: Antigravity / Nano
-Theme: Dark Mode Always
-Font: Maple Mono NF
-Icons: Material Icon Theme
-Terminal: Gnome Terminal / Warp
-WM: i3-gaps (Tiling)
-Browser: Brave Nightly
-Location: Chiapas, México
-Timezone: UTC-06:00 (CST)
-Music: Random
-Drink: Water 
-CPU: Intel® Core™ i7-12700KF
-Memory: 16GB
-```
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
+<div align="center" style="width:100%">
 
 **Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,bootstrap)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,bootstrap,md)](https://skillicons.dev)
 
 **Backend**
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mysql,docker,npm,postman)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,prisma,supabase,docker,npm,postman)](https://skillicons.dev)
 
-**Terminal**
+**Terminal & CLI**
 
-[![Terminal](https://skillicons.dev/icons?i=bash,vim,neovim)](https://skillicons.dev)
+[![Terminal & CLI](https://skillicons.dev/icons?i=bash,powershell,vim,neovim)](https://skillicons.dev)
 
 **OS**
 
-[![OS](https://skillicons.dev/icons?i=ubuntu,linux,debian)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=ubuntu,linux,debian,windows,apple)](https://skillicons.dev)
 
 **Tools**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,notion)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,notion,discord)](https://skillicons.dev)
 
 **Cloud & DevOps**
 
-[![Cloud](https://skillicons.dev/icons?i=gcp,cloudflare,githubactions)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=gcp,cloudflare,vercel,nginx,githubactions)](https://skillicons.dev)
 
-</div>
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
@@ -102,25 +64,12 @@ Memory: 16GB
 ## `$ ls -la ~/projects/`
 
 ```bash
-$ tree ~/projects --dirsfirst
 .
-├── 📦 inventario-ti-lds/     # Sistema de inventario TI
-├── 🚀 linea-digital-astro/   # Web con Astro Framework
-└── 🔧 coming-soon/           # Próximo proyecto...
+└── 🔜 coming-soon/           # Building something cool...
 ```
 
-<div align="center">
-
-[![inventario-ti-lds](https://github-readme-stats.vercel.app/api/pin/?username=herwingx&repo=inventario-ti-lds&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/herwingx/inventario-ti-lds)
-[![linea-digital-astro](https://github-readme-stats.vercel.app/api/pin/?username=herwingx&repo=linea-digital-astro&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/herwingx/linea-digital-astro)
-
-</div>
-
-> 📁 **[Ver todos los repositorios →](https://github.com/herwingx?tab=repositories)**
 
 ---
-
-
 
 ## `$ git log --oneline`
 
@@ -146,10 +95,10 @@ $ tree ~/projects --dirsfirst
 
 ```json
 {
-  "email": "herwingx@gmail.com",
+  "email": "jobs@herwingx.com",
   "social": {
     "linkedin": "https://linkedin.com/in/herwingx",
-    "website": "https://herwingx.dev",
+    "website": "https://herwingx.com",
     "github": "https://github.com/herwingx"
   },
   "status": "Available for hire 🟢"
